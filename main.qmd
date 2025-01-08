@@ -1,0 +1,73 @@
+---
+title: "Aquest any en fas 29! \ 🥳"
+author: ""
+format: revealjs
+---
+
+## I com és costum, et torno a regalar una experiència... {.center}
+
+## A veure si descobreixes què és 🧐 {.center}
+
+## Comencem amb detalls petits... (i pixelats!)
+::: {.r-stack}
+![](img/picture1.png){.fragment .absolute top=200 left=0 width=350 height=300}
+
+![](img/picture2.png){.fragment .absolute top=100 right=50 width=450 height=250}
+
+![](img/picture3.png){.fragment .absolute bottom=0 right=300 width=300 height="300}
+:::
+
+## Fàcil, no? {.center}
+
+## Vinga va, que t'ajudo una miqueta més...
+::: {.r-stack}
+![](img/picture4.png){.fragment .absolute top=200 right=0 width=350 height=300}
+
+![](img/picture5.png){.fragment .absolute top=150 left=50 width=450 height=250}
+
+![](img/picture6.png){.fragment .absolute bottom=0 left=300 width=300 height=300}
+:::
+
+## Bé... potser no tant, pero ara sí que sí!
+::: {.r-stack}
+![](img/picture7.png){.fragment .absolute top=100 left=0 width=350 height=350}
+
+![](img/picture8.png){.fragment .absolute top=200 right=50 width=400 height=400}
+
+![](img/picture9.png){.fragment .absolute bottom=0 right=500 width=300 height=300}
+:::
+
+## I si ara no ho endivines, és per matar-te!
+::: {.r-stack}
+![](img/picture10.png){.fragment .absolute top=200 left=0 width=400 height=350}
+
+![](img/picture11.png){.fragment .absolute top=200 right=50 width=400 height=400}
+:::
+
+## Síiiiiii, anem a Londres per Setmana Santa!
+![](img/all.jpg)
+
+## I sí, un any més vas endivinar el regal abans de temps... 🫣 {.center}
+
+## Ah! però que això no s'acaba aquí! {.center}
+
+## Londres serà un Madrid 2.0, però no menjarem tant bé... així que ara et toca triar! {.center}
+
+## Tu i els teus musicals... quin prefereixes? 😜
+::: {.r-stack}
+![](img/mamma.jpg){.fragment .absolute left=0 width=350 height=450}
+
+![](img/phantom.jpg){.fragment .absolute left=400 width=300 height=400}
+
+![](img/miserables.png){.fragment .absolute right=0 width=300 height=400}
+:::
+
+## Així que el regal es uns vols a Londres i un musical! {.center}
+
+
+## Espero que t'hagi agradat, ara només cal triar dates i jo m'encarrego d'organitzar el viatge {.center}
+::: {.fragment}
+T'estimo ❤️
+
+Bernat
+:::
