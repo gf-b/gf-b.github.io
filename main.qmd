@@ -44,8 +44,8 @@ format: revealjs
 ![](img/picture11.png){.fragment .absolute top=200 right=50 width=400 height=400}
 :::
 
-## Síiiiiii, anem a Londres per Setmana Santa!
-![](img/all.jpg)
+## Síiiiiii, anem a Londres per Setmana Santa! {.center}
+![](img/all.png){width=900 height=520}
 
 ## I sí, un any més vas endivinar el regal abans de temps... 🫣 {.center}
 
