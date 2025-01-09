@@ -62,7 +62,7 @@ format: revealjs
 ![](img/miserables.png){.fragment .absolute right=0 width=300 height=400}
 :::
 
-## Així que el regal es uns vols a Londres i un musical! {.center}
+## Així que el regal son uns vols a Londres i un musical! {.center}
 
 
 ## Espero que t'hagi agradat, ara només cal triar dates i jo m'encarrego d'organitzar el viatge {.center}
