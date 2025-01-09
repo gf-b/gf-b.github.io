@@ -39,7 +39,7 @@ format:
 ![](img/picture9.png){.fragment .absolute bottom=0 right=500 width=300 height=300}
 :::
 
-## I si ara no ho endivines, és per matar-te!
+## I si ara ja no ho endivines, potser m'he de repensar el regal 💂
 ::: {.r-stack}
 ![](img/picture10.png){.fragment .absolute top=200 left=0 width=400 height=350}
 
