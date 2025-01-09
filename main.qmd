@@ -1,7 +1,9 @@
 ---
 title: "Aquest any en fas 29! \ 🥳"
 author: ""
-format: revealjs
+format:
+  revealjs:
+    menu: false
 ---
 
 ## I com és costum, et torno a regalar una experiència... {.center}
