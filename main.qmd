@@ -67,7 +67,10 @@ format: revealjs
 
 ## Espero que t'hagi agradat, ara només cal triar dates i jo m'encarrego d'organitzar el viatge {.center}
 ::: {.fragment}
+
+::: {.center}
 T'estimo ❤️
 
 Bernat
+:::
 :::
